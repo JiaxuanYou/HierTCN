@@ -8,7 +8,7 @@ Tensorflow (tested on 1.6.0), numpy, pandas, pickle
 
 
 ## Dataset
-Download [XING dataset](http://2016.recsyschallenge.com/), only `interactions.csv` is needed. Copy `interactions.csv` to `dataset/` folder.
+Download [XING dataset](http://2016.recsyschallenge.com/), only `interactions.csv` is needed. Create `dataset/` folder, then copy `interactions.csv` to that folder.
 
 If XING dataset is not available, you can email Jiaxuan You for the dataset for solely research use.
 
